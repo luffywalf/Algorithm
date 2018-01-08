@@ -24,7 +24,10 @@ http://wangkuiwu.github.io/2013/04/14/dijkstra-c/
 https://www.youtube.com/watch?v=obWXjtg0L64
 
 
+# max flow with min cost
+果然循序渐进很重要啊，分别弄清楚maxflow and min cost 然后合体瞬间就懂了嘛，之前还弄了那么久。。。真是。。。
 
+就是求max flow 当中 每次求增广路径的步骤换成求最短路径。其他估计都一样。
 
 
 
